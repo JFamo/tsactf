@@ -1,0 +1,6 @@
+print('IConIT0+KTQZNjMyNRkyLiMZIDMoGS8oGSAzKCInKyMoMicqOw=='.decode('base64'))
+print('flag'.encode('base64'))
+print('RkZGRg=='.decode('base64'))
+print('VGhlIHF1aWNrIGJyb3duIGZveCBqdW1wcyBvdmVyIDEzIGxhenkgZG9ncy4='.decode('base64'))
+print('CFT1Tw=='.decode('base64'))
+print(chr(ord('IConIT0+KTQZNjMyNRkyLiMZIDMoGS8oGSAzKCInKyMoMicqOw=='.decode('base64')) ^ ord('flag')))
